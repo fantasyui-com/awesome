@@ -38,6 +38,8 @@
   - [ted](http://www.ted.com/speakers/sir_ken_robinson)
   - [youtube](https://www.youtube.com/results?search_query=Sir+Ken+Robinson)
   - [wikipedia](http://en.wikipedia.org/wiki/Ken_Robinson_%28educationalist%29)
+* Kandice Sumner
+  - [How America's public schools keep kids in poverty](https://www.ted.com/talks/kandice_sumner_how_america_s_public_schools_keep_kids_in_poverty)
 * Bill Bryson
   - [youtube](https://www.youtube.com/results?search_query=Bill+Bryson)
 * Erica Goldson
