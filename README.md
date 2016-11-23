@@ -38,6 +38,9 @@
   - [ted](http://www.ted.com/speakers/sir_ken_robinson)
   - [youtube](https://www.youtube.com/results?search_query=Sir+Ken+Robinson)
   - [wikipedia](http://en.wikipedia.org/wiki/Ken_Robinson_%28educationalist%29)
+* Astra Taylor
+  - [Astra Taylor on the Unschooled Life](https://www.youtube.com/watch?v=LwIyy1Fi-4Q)
+  - [youtube](https://www.youtube.com/results?search_query=Astra+Taylor)
 * Kandice Sumner
   - [How America's public schools keep kids in poverty](https://www.ted.com/talks/kandice_sumner_how_america_s_public_schools_keep_kids_in_poverty)
 * Bill Bryson
