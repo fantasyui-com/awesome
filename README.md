@@ -71,6 +71,8 @@
   - [youtube](https://www.youtube.com/results?search_query=Dan+Barker)
 * Lawrence Krauss
   - [youtube](https://www.youtube.com/results?search_query=Lawrence+Krauss)
+* PZ Myers
+  - [youtube](https://www.youtube.com/results?search_query=PZ+Myers)
 * ***Notable Videos***
   - [Four Horsemen Discussion](https://www.youtube.com/watch?v=rRLYL1Q9x9g) - 1h:57m
 
